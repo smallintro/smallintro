@@ -2,10 +2,11 @@
 
 - 👨‍💻 A software engineer from India 🇮🇳.
 - ❤️ I love working with various technologies related to Java and Python.
+<!--
 - 💼 Currently working at [Petal Search](https://petalsearch.com)
-- ⚡ Let's select * from sky;
-- 💬 Ask your tech query [here](https://github.com/smallintro/smallintro/issues)
-
+#- ⚡ Let's select * from sky;
+#- 💬 Ask your tech query [here](https://github.com/smallintro/smallintro/issues)
+-->
 
 ## 📫 Connect
 [![Linkedin Badge](https://img.shields.io/badge/-sushilprasad-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sushilprasad/)](https://www.linkedin.com/in/sushilprasad)
@@ -30,7 +31,7 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white)
-![elasticsearch](https://img.shields.io/badge/-Postman-FF6C37?style=plastic&logo=elasticsearch&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-FF6C37?style=plastic&logo=elasticsearch&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=plastic&logo=apachejmeter&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=black)
@@ -42,17 +43,17 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=plastic&logo=insomnia&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=plastic&logo=microsoftoffice&logoColor=white)
+
+<!--
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=plastic&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
 ![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=plastic&logo=blogger&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=plastic&logo=wordpress&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=plastic&logo=microsoftoffice&logoColor=white)
-
-<!--
 ![Katacoda](https://img.shields.io/badge/-Katacoda-F48220?style=plastic&logo=katacoda&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-FF6C37?style=plastic&logo=amazonaws&logoColor=white)
 https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
